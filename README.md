@@ -1,8 +1,7 @@
 <h1>👨🏾‍💻 Hi, I'm Sebastián </h1>
 
 💻 Full Stack Developer.<br>
-🌱 Specialized in Web Development with ASP.NET Core & RESTful API.<br>
-
+🌱 Specialized in Web Development with ASP.NET Core & RESTful API.
 <br>
 
 ## ⚙️Technologies I Work With
