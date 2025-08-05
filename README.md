@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer.<br>
 🌱 Specialized in Web Development with ASP.NET Core & RESTful API.<br>
-⭐ I like design UI/UX. 
+
 <br>
 
 ## ⚙️Technologies I Work With
